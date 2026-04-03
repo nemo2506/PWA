@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0a0a0a;
+    color: white;
+    text-align: center;
+}
+
+#app {
+    margin-top: 40vh;
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 16px;
+    border: none;
+    background: #0078d4;
+    color: white;
+    border-radius: 8px;
+}
